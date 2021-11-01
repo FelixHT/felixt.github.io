@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Felix Taschbach</title>
-    <link>https://FelixHT.github.io/</link>
+    <link>https://felixht.github.io/felixt.io/</link>
     <description>Recent content on Felix Taschbach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Felix Taschbach - 2021</copyright>
-    <lastBuildDate>Thu, 21 Oct 2021 12:51:41 -0700</lastBuildDate><atom:link href="https://FelixHT.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Oct 2021 12:51:41 -0700</lastBuildDate><atom:link href="https://felixht.github.io/felixt.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>https://FelixHT.github.io/cv/</link>
+      <link>https://felixht.github.io/felixt.io/cv/</link>
       <pubDate>Sun, 31 Oct 2021 17:11:41 -0700</pubDate>
       
-      <guid>https://FelixHT.github.io/cv/</guid>
+      <guid>https://felixht.github.io/felixt.io/cv/</guid>
       <description>Education  University of California San Diego(UCSD), La Jolla, California  PhD, Biological Science, estimated graduation: July 2025  Computational neuroscience research as part of the Benna Lab at UCSD and the TyeLab at the Salk Institute for Biological Studies. Current GPA: 4.0/ 4.0     Maastricht University, Maastricht, the Netherlands  MSc, Systems Biology, graduated: summa cum laude July 2019  GPA: 4.0/4.0 (converted) Thesis completed at Zuckerman Mind Brain Behavior Institute at Columbia University Topic: Decoder-based analysis of internal representations of space from large scale recordings of population activities in the dentate gyrus and CA1 areas of the mouse hippocampus Advisors: Dr.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://FelixHT.github.io/publications/</link>
+      <link>https://felixht.github.io/felixt.io/publications/</link>
       <pubDate>Sun, 31 Oct 2021 17:01:24 -0700</pubDate>
       
-      <guid>https://FelixHT.github.io/publications/</guid>
+      <guid>https://felixht.github.io/felixt.io/publications/</guid>
       <description>Taschbach FH, Stefanini F, Benna MK, Fusi SF. Abstract representations of space in the mouse dentate gyrus. in prep Mills F, Lee CR, Howe JR, Shao S, Lemieux ME, Borio MR, Taschbach FH, Patel RR, Keisler MN, Chen HS, Gross AL, Batra K, Tye KM.Amygdalostriatal transition zoneneurons encode sustained valence to direct conditioned behaviors. in prep Padilla-Coreano N, Batra K, Patarino M, Chen Z, Rock RR, Zhang R, Hausmann JavierWeddington SB, Taschbach FH, Patel RR, Zhang YE, Fang H, Keyes LR, Libster A,Matthews GA, Curley JP, Fiete IR, Lu C, Tye KM.</description>
     </item>
     
