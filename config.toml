@@ -1,0 +1,61 @@
+baseurl = "https://felixht.github.io/felixt.io/"
+languageCode = "en-us"
+Title= "Felix Taschbach"
+paginate = 5
+Copyright = "Felix Taschbach - 2022"
+canonifyurls = true
+theme="barks"
+SectionPagesMenu = "main"
+[[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "_index"
+    url = "/"
+[[menu.main]]
+    name = "CV"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/docs/cv.pdf"
+[[menu.main]]
+    name = "Publications"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -90
+    identifier = "Publications"
+    url = "/Publications/"
+
+[params]
+  [params.head]
+    author = "Felix Taschbach"
+    # custom_css = "<url_to_custom_css_file>"
+    description = "Hi, I'm Felix, and this is my website!"
+    keywords = ["PhD student", "Computational Neuroscience", "UCSD"]
+  [params.typography]
+      title_font = "Bree Serif"
+      body_font = "Source Sans Pro"
+  [params.colors]
+    theme_color = "#333333"
+    background_color = "#fcfbf9"
+    text_color = "#333333"
+    link_color = "#60c17d"
+  [params.social]
+    # [params.social.email]
+    #     name = "E-Mail"
+    #     class = "fas fa-envelope"
+    #     url = "mailto:<your_name>@<your_institution>.com"
+    #     weight = 1
+    [params.social.github]
+        name = "GitHub"
+        class = "fab fa-github"
+        url = "https://github.com/FelixHT"
+        weight = 2
+    [params.social.twitter]
+        name = "Twitter"
+        class = "fab fa-twitter"
+        url = "https://twitter.com/felixtaschbach"
+        weight = 2
+    # [params.social.google_scholar]
+    #     name = "Google Scholar"
+    #     class = "ai ai-google-scholar-square"
+    #     url = "https://scholar.google.com/citations?user=<your_user_id>"
+    #     weight = 3
